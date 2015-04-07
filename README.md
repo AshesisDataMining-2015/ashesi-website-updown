@@ -1,5 +1,5 @@
 # Ashesi University Website Uptime
-This project evaluates how long the Ashesi University College website was up or down over the course of last year. 
+This project evaluates the story of the Ashesi University College website uptime over the course of last year using data mining techniques. A second question is whether we make predictions on uptime in the future. 
 # Author
 Kpetermeni T. Siakor
 # Source
